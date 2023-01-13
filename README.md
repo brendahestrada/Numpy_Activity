@@ -160,9 +160,9 @@ fig, ax = plot.subplots()
 ax.plot(hist_ES)
 
 [<matplotlib.lines.Line2D at 0x7fcfe1145550>]
-![Image text](https://http://raw.github.com/brendahestrada/Numpy_Activity/blob/main/Imagen2.png)
 
 ```
+![](Imagen2.png)
 
 El gasto de los paises durante el último año con registro 2020:
 
