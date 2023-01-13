@@ -102,7 +102,7 @@ plt.show()
 [  500000.  9450000. 18400000. 27350000. 36300000. 45250000. 54200000.
  63150000. 72100000. 81050000. 90000000.]
 534
-![Image text](Numpy_Activity/blob/main/Imagen1.png?raw=true)
+![Image text](Imagen1.png?raw=true)
 
 ```
 
